@@ -16,5 +16,5 @@
            * [Alfa viprominenya](1/alfa_viprominenya.md)
            * [Бета випромінення](1/beta_vipromnennya.md)
    * [ЕЛЕКТРОННІ ОБОЛОНКИ](1/elektronn_obolonki.md)
-       * Атомні орбіталі
+       * [Атомні орбіталі](1/atomn_orbtal.md)
 
