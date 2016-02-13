@@ -10,6 +10,6 @@
        * [Пудинг Томпсона](1/puding_tompsona.md)
        * [Планетарна модель](1/planetarna_model.md)
    * [Сучасні уявлення про будову атома](1/suchasn_uyavlennya_pro_budovu_atoma.md)
-       * Ізотопи
+       * [Ізотопи](1/izotopi.md)
        * [абсолютна атомна маса](1/absolyutna_atomna_masa.md)
 
