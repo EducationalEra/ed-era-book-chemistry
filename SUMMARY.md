@@ -17,5 +17,5 @@
            * [Бета випромінення](1/beta_vipromnennya.md)
    * [ЕЛЕКТРОННІ ОБОЛОНКИ](1/elektronn_obolonki.md)
        * [Атомні орбіталі](1/atomn_orbtal.md)
-       * Орієнтація орбіталей у магнітному полі.
+       * [Орієнтація орбіталей у магнітному полі.](1/orntatsya_orbtalei_u_magntnomu_pol.md)
 
