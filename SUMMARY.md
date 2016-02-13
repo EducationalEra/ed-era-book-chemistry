@@ -13,4 +13,5 @@
        * [абсолютна атомна маса](1/absolyutna_atomna_masa.md)
        * [Ізотопи](1/izotopi.md)
        * [радіоактивність, продовження;](1/radoaktivnst,_prodovzhennya.md)
+           * Alfa viprominenya
 
