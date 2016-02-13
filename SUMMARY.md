@@ -19,4 +19,5 @@
        * [Атомні орбіталі](1/atomn_orbtal.md)
        * [Орієнтація орбіталей у магнітному полі.](1/orntatsya_orbtalei_u_magntnomu_pol.md)
        * [Розподіл електронів в навколоядерному просторі.](1/rozpodl_elektronv_v_navkoloyadernomu_prostor.md)
+       * Рух електрона «навколо власної вісі»
 
