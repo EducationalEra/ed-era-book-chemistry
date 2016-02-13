@@ -7,5 +7,5 @@
    * [XVIII-XIX ст](1/xix_st.md)
    * [Радіоактивність](1/radoaktivnst.md)
    * [Моделі атомів](1/model_atomv.md)
-       * Пудинг Томпсона
+       * [Пудинг Томпсона](1/puding_tompsona.md)
 
