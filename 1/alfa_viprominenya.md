@@ -1,2 +1,2 @@
-# Alfa viprominenya
+# Альфа випромінення
 
