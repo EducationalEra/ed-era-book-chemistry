@@ -20,5 +20,5 @@
        * [Орієнтація орбіталей у магнітному полі.](1/orntatsya_orbtalei_u_magntnomu_pol.md)
        * [Розподіл електронів в навколоядерному просторі.](1/rozpodl_elektronv_v_navkoloyadernomu_prostor.md)
        * [Рух електрона «навколо власної вісі»](1/ruh_elektrona_navkolo_vlasno_vs.md)
-       * Стан електронів в атомі і розподіл їх  за енергетичними рівнями і підрівнями в атомах.
+       * [Стан електронів в атомі і розподіл їх  за енергетичними рівнями і підрівнями в атомах.](1/stan_elektronv_v_atom__rozpodl_h_za_energetichnimi.md)
 
