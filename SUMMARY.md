@@ -12,5 +12,5 @@
    * [Сучасні уявлення про будову атома](1/suchasn_uyavlennya_pro_budovu_atoma.md)
        * [абсолютна атомна маса](1/absolyutna_atomna_masa.md)
        * [Ізотопи](1/izotopi.md)
-       * радіоактивність, продовження;
+       * [радіоактивність, продовження;](1/radoaktivnst,_prodovzhennya.md)
 
