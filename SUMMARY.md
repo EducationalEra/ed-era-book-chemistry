@@ -22,4 +22,5 @@
        * [Рух електрона «навколо власної вісі»](1/ruh_elektrona_navkolo_vlasno_vs.md)
        * [Стан електронів в атомі і розподіл їх  за енергетичними рівнями і підрівнями в атомах.](1/stan_elektronv_v_atom__rozpodl_h_za_energetichnimi.md)
        * [Закономірності будови електронних оболонок атомів.](1/zakonomrnost_budovi_elektronnih_obolonok_atomv.md)
+       * Енергетичні рівні та підрівні
 
