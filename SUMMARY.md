@@ -4,6 +4,6 @@
 * [Вступ](vstup.md)
 * [Будова атомів хімічних елементів](1/budova_atomiv_himichnyh_elementiv.md)
    * [Античні часи](1/antichn_chasi.md)
-   * [XVI-XIX ст](1/xix_st.md)
+   * [XVIII-XIX ст](1/xix_st.md)
    * [Радіоактивність](1/radoaktivnst.md)
 
