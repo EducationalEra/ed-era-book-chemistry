@@ -15,4 +15,5 @@
        * [радіоактивність, продовження;](1/radoaktivnst,_prodovzhennya.md)
            * [Alfa viprominenya](1/alfa_viprominenya.md)
            * [Бета випромінення](1/beta_vipromnennya.md)
+   * ЕЛЕКТРОННІ ОБОЛОНКИ
 
