@@ -23,5 +23,5 @@
        * [Стан електронів в атомі і розподіл їх  за енергетичними рівнями і підрівнями в атомах.](1/stan_elektronv_v_atom__rozpodl_h_za_energetichnimi.md)
        * [Закономірності будови електронних оболонок атомів.](1/zakonomrnost_budovi_elektronnih_obolonok_atomv.md)
        * [Енергетичні рівні та підрівні](1/energetichn_rvn_ta_pdrvn.md)
-       * Третій енергетичний рівень (М-рівень)
+       * [Третій енергетичний рівень (М-рівень)](1/treti_energetichnii_rven_m-rven.md)
 
