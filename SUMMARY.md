@@ -6,4 +6,5 @@
    * [Античні часи](1/antichn_chasi.md)
    * [XVIII-XIX ст](1/xix_st.md)
    * [Радіоактивність](1/radoaktivnst.md)
+   * Моделі атомів
 
