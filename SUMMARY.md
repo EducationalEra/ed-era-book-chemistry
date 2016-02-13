@@ -8,5 +8,5 @@
    * [Радіоактивність](1/radoaktivnst.md)
    * [Моделі атомів](1/model_atomv.md)
        * [Пудинг Томпсона](1/puding_tompsona.md)
-       * Планетарна модель
+       * [Планетарна модель](1/planetarna_model.md)
 
