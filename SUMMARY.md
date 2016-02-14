@@ -24,4 +24,5 @@
        * [Закономірності будови електронних оболонок атомів.](1/zakonomrnost_budovi_elektronnih_obolonok_atomv.md)
        * [Енергетичні рівні та підрівні](1/energetichn_rvn_ta_pdrvn.md)
        * [Третій енергетичний рівень (М-рівень)](1/treti_energetichnii_rven_m-rven.md)
+       * Збуджений» стан атома. Йони. Радіуси атомів і йонів
 
