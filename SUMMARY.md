@@ -2,6 +2,7 @@
 
 * [Зміст](README.md)
 * [Вступ](vstup.md)
+* [З чого починається хімія?](z_chogo_pochinatsya_hmya.md)
 * [Будова атомів хімічних елементів](1/budova_atomiv_himichnyh_elementiv.md)
    * [Античні часи](1/antichn_chasi.md)
    * [XVIII-XIX ст](1/xix_st.md)
@@ -25,5 +26,4 @@
        * [Енергетичні рівні та підрівні](1/energetichn_rvn_ta_pdrvn.md)
        * [Третій енергетичний рівень (М-рівень)](1/treti_energetichnii_rven_m-rven.md)
        * [Збуджений» стан атома. Йони. Радіуси атомів і йонів](1/zbudzhenii_stan_atoma_ioni_radusi_atomv__ionv.md)
-* [З чого починається хімія?](z_chogo_pochinatsya_hmya.md)
 
