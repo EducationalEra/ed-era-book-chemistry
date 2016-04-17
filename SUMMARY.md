@@ -5,6 +5,7 @@
 * [З чого починається хімія?](z_chogo_pochinatsya_hmya.md)
    * [Звідки виникло слово «хімія»?](zvdki_viniklo_slovo_hmya.md)
    * [Як з'явилася наука хімія?](yak_zyavilasya_nauka_hmya.md)
+   * Предмет хімії. Хімія у центрі наук
 * [Будова атомів хімічних елементів](1/budova_atomiv_himichnyh_elementiv.md)
    * [Античні часи](1/antichn_chasi.md)
    * [XVIII-XIX ст](1/xix_st.md)
