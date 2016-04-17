@@ -5,6 +5,7 @@
 * [З чого починається хімія?](z_chogo_pochinatsya_hmya.md)
    * [Звідки виникло слово «хімія»?](zvdki_viniklo_slovo_hmya.md)
    * [Як з'явилася наука хімія?](yak_zyavilasya_nauka_hmya.md)
+   * [Фізичне тіло. Речовина. Матеріал.](fzichne_tlo_rechovina_materal.md)
    * [Предмет хімії. Хімія у центрі наук](predmet_hm_hmya_u_tsentr_nauk.md)
        * [Фізичне тіло. Речовина. Матеріал.](fzichne_tlo_rechovina_materal.md)
 * [Будова атомів хімічних елементів](1/budova_atomiv_himichnyh_elementiv.md)
