@@ -16,7 +16,7 @@
 
 <div class="space">
 <div class="center">
-<img src="1/1.4. _Книга мёртвых_ Древнего Египта.jpg" width="400px" class="center"/>
+<img src="1/1.5. Питер Брейгель ст. Алхимик (1558) .JPG" width="400px" class="center"/>
 <p><i>«Алхімік». Малюнок. Пітер Брейгель ст. (1558) (Берлін, Держ.музей)</i></p>
 </div>
 </div>
